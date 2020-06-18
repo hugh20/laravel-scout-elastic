@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$USER_HOME$/hugh20">
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <sourceFolder url="file://$USER_HOME$/hugh20/laravel-scout-elastic/src" isTestSource="false" packagePrefix="ScoutEngines\Elasticsearch\" />
+      <sourceFolder url="file://$USER_HOME$/hugh20/laravel-scout-elastic/tests" isTestSource="true" packagePrefix="ScoutEngines\Elasticsearch\Test\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
